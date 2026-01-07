@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anagha Vinod. I am currently a Masters student in the PNB department at McMaster University
+- 👋 Hi, I’m Anagha Vinod. I am currently a PhD student in the MINDS program at McMaster University
 - 👀 I’m interested in researching infant's neural representation of beats
 - 🌱 I’m currently learning data analysis of fNIRS data using Homer3
 - 💞️ I’m looking to collaborate on data analysis pipeline for infant fNIRS data, to correct for motion artifacts
